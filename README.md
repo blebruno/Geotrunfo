@@ -1,0 +1,2 @@
+# Geotrunfo
+Jogo de Geopolítica
